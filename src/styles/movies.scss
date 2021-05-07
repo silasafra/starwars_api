@@ -1,0 +1,15 @@
+section.movies{
+  margin: 20px;
+  h1{
+    margin-bottom: 12px;
+  }
+  ul{
+  list-style: none;
+  margin-bottom: 10px; 
+  align-items: center;
+
+  &:last-child{ margin:0;
+  
+  }
+}
+}
